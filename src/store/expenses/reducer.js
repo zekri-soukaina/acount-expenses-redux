@@ -1,7 +1,7 @@
 const initialState = {
   allExpenses: [
     {
-      name: "T-mobile  ",
+      name: "Mobile  ",
       earn: 0,
       spend: 60,
     },
@@ -11,14 +11,14 @@ const initialState = {
       spend: 13,
     },
     {
-      name: "training",
+      name: "Training",
       earn: 0,
       spend: 300,
     },
     {
-      name: "EY",
-      earn: 500,
-      spend: 0,
+      name: "Assurance",
+      earn: 100,
+      spend: 120,
     },
   ],
 };

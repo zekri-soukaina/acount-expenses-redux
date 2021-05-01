@@ -13,13 +13,13 @@ export default function Payment() {
             <th> Name </th>
             <th> City </th>
             <th> Phone </th>
-            <th>EARN</th>
-            <th>SPEND</th>
+            <th>RECIVE</th>
+            <th>SEND</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>EY </td>
+            <td> Lorem </td>
             <td> AMSTERDAM </td>
             <td> 2034938411 </td>
             <td>
@@ -41,7 +41,7 @@ export default function Payment() {
             </td>
           </tr>
           <tr>
-            <td> AUNT </td>
+            <td> Joe </td>
             <td> Bangaluru </td>
             <td> 8723495860 </td>
             <td>
@@ -63,7 +63,7 @@ export default function Payment() {
             </td>
           </tr>
           <tr>
-            <td> MO </td>
+            <td> Mariana </td>
             <td> Toronto </td>
             <td> 3002298484 </td>
             <td>
